@@ -7,6 +7,8 @@ Features:
 1. integrated with A.I. to help consumers
 2. fullfledge shopping app to boost the experience without more stress laid on to other apps (all in one)
 
+---
+
 # ShopSphere (Project Landing Page)
 
 **Status:** *Public Architecture Overview*
